@@ -18,3 +18,11 @@ if __name__ == '__main__':
 print("Yello, imma head out of this class")
 
 print("Uwaga, Uwaga, toto je test z domova")
+
+
+a = 10
+b = 2
+
+c = a % b
+
+print(c)
